@@ -59,3 +59,12 @@ kubctl apply
 
 アップデート
 kubectl rollout あるいは kustomizationのrollingUpdate
+
+
+## GKE
+ノードのサブセット
+
+## Hybrid & Multi Cloud Architecture
+
+## Anthos
+Hybrid, Multi Cloud Solution
